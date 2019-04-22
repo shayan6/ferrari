@@ -1,0 +1,21 @@
+@import url("https://db.onlinewebfonts.com/c/4e682567058b65d3425f63faeca933f3?family=Ferro+Rosso");
+html, body, #wrapper {
+   font-family: "Ferro Rosso";
+   height:100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   background: #f3f3f3;
+}
+#wrapper td {
+   vertical-align: middle;
+   text-align: center;
+}
+h1{
+    position: absolute;
+    left: 20%;
+    bottom: 15%;
+    font-size: 4rem;
+    color: #1f2c38;
+}
